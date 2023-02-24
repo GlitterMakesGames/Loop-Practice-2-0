@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoopPracticeRevised_2.0/1.0.0": {
+        "runtime": {
+          "LoopPracticeRevised_2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopPracticeRevised_2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

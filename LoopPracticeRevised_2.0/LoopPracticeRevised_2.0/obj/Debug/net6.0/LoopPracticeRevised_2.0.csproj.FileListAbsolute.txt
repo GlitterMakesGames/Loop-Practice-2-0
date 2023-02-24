@@ -1,0 +1,15 @@
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\bin\Debug\net6.0\LoopPracticeRevised_2.0.exe
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\bin\Debug\net6.0\LoopPracticeRevised_2.0.deps.json
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\bin\Debug\net6.0\LoopPracticeRevised_2.0.runtimeconfig.json
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\bin\Debug\net6.0\LoopPracticeRevised_2.0.dll
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\bin\Debug\net6.0\LoopPracticeRevised_2.0.pdb
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.csproj.AssemblyReference.cache
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.AssemblyInfoInputs.cache
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.AssemblyInfo.cs
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.csproj.CoreCompileInputs.cache
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.dll
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\refint\LoopPracticeRevised_2.0.dll
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.pdb
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\LoopPracticeRevised_2.0.genruntimeconfig.cache
+C:\Users\S1071204\source\repos\LoopPracticeRevised_2.0\LoopPracticeRevised_2.0\obj\Debug\net6.0\ref\LoopPracticeRevised_2.0.dll
